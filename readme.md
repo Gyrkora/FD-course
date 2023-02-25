@@ -1,4 +1,4 @@
-#First Assignment - Website using HTML only
+# First Assignment - Website using HTML only
 
 The website shows my passions - Karate, music, my bicycle and coding.
 
